@@ -15,7 +15,7 @@ This is a bounded symbolic-composition release, not a sample pack, recording, or
 | z0903 Dark Minimal House Grooves Contrast | G pack-local pitch collection | 32 bars · 122 BPM · 4/4 |
 | z0904 Dark Minimal House Grooves Return | D pack-local pitch collection | 32 bars · 122 BPM · 4/4 |
 
-The release contains 28 MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
+The release contains 28 study MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
 
 ## Start here
 
