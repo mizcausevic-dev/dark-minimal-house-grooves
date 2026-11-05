@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:52.914099+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0901-dark-minimal-house-grooves-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "774e5f3b1420afbd9434f3459e998f9481ba56bfc168990d53e3f88bc7751d7a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0901-dark-minimal-house-grooves-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fb876811217e96380437e4c861952e6a71cc44cc7ab1d539eaa67cd6b330c6a4",
+      "errors": []
+    },
+    {
+      "path": "midi/z0901-dark-minimal-house-grooves-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0901-dark-minimal-house-grooves-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "ac941dbbef0607c3f5aa65e96216f5fe77ab18ef01a90875e4e18cb9d06bf705",
+      "errors": []
+    },
+    {
+      "path": "midi/z0901-dark-minimal-house-grooves-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "802112e82d32dfbb1d76e67fae59ec8308bc245408629eccf0f83b4dba5a5eef",
+      "errors": []
+    },
+    {
+      "path": "midi/z0901-dark-minimal-house-grooves-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "bf8097c8623b26afb8fc854e12e91f4e5ed9ee1d8511655d4f10c28c00a2c259",
+      "errors": []
+    },
+    {
+      "path": "midi/z0901-dark-minimal-house-grooves-opening/z0901-dark-minimal-house-grooves-opening-combined.mid",
+      "bytes": 6037,
+      "sha256": "c6291cffdc94b6c07dd9df2a96295a28956ce9a8baa90ad705b334576caafa38",
+      "errors": []
+    },
+    {
+      "path": "midi/z0902-dark-minimal-house-grooves-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c3214acc4628b9f90cd28dbca47ccdc9c1de3bb13a9794b7ec035aefba51f416",
+      "errors": []
+    },
+    {
+      "path": "midi/z0902-dark-minimal-house-grooves-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dfe8f39acf3d14705ce3690e6eb1b4716e25f157f75185dc132cad894793278a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0902-dark-minimal-house-grooves-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0902-dark-minimal-house-grooves-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "98480e01c3106af2c72772833aef46e78cc9666085698e18cc2b2774fce14090",
+      "errors": []
+    },
+    {
+      "path": "midi/z0902-dark-minimal-house-grooves-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "1260ee66f97c05d5e033e33e854a4464ceb9ebcd467879b8519a1f74dcbcbdda",
+      "errors": []
+    },
+    {
+      "path": "midi/z0902-dark-minimal-house-grooves-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "510427444f3e865b9f726803346105772bf05c9957cb86978f1ee4df48ca6a07",
+      "errors": []
+    },
+    {
+      "path": "midi/z0902-dark-minimal-house-grooves-variation/z0902-dark-minimal-house-grooves-variation-combined.mid",
+      "bytes": 6037,
+      "sha256": "43426f62e38dae06de4560d406c727ef9e142b398e289abaa1019cd7df8d3adc",
+      "errors": []
+    },
+    {
+      "path": "midi/z0903-dark-minimal-house-grooves-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "16bfdc941d4507b716e5393f8db2f6d76faf9157b427ab09d65d2abbcd7c452f",
+      "errors": []
+    },
+    {
+      "path": "midi/z0903-dark-minimal-house-grooves-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a7198d2a569e682be59c830add8ec1cdc54472dc6c322d7975a3ec361229f52c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0903-dark-minimal-house-grooves-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0903-dark-minimal-house-grooves-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "a2601c3f5009e86b24359a73dae0e00033e3968438a61092a3a707f7d629cc5d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0903-dark-minimal-house-grooves-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "71d0da482f82eb2c867ad1e59916e50a10ccc431aeccd034092fc94648810541",
+      "errors": []
+    },
+    {
+      "path": "midi/z0903-dark-minimal-house-grooves-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "caa19da6bc7a84de5581b21dd6b7e79955a6e912256fb23d1b49a889b34a2ab0",
+      "errors": []
+    },
+    {
+      "path": "midi/z0903-dark-minimal-house-grooves-contrast/z0903-dark-minimal-house-grooves-contrast-combined.mid",
+      "bytes": 6003,
+      "sha256": "8a7cceb9790a98ba980cd4a5960b7310acf8e46242c71bb9985f92fe56f75adc",
+      "errors": []
+    },
+    {
+      "path": "midi/z0904-dark-minimal-house-grooves-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "34ec074133cb20d78af7039d2aa2faaae0b292eafbfb7899f97f272f8079406c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0904-dark-minimal-house-grooves-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b034020f894dc0d4cf755935a4fa2d2e89820b3b6327e72eb2a2e7e0fde52a44",
+      "errors": []
+    },
+    {
+      "path": "midi/z0904-dark-minimal-house-grooves-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0904-dark-minimal-house-grooves-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "f4e6dce2a0715045dcc06e0be73c3c2d780386f16b0bead8b0fbaa1b4ece0b5a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0904-dark-minimal-house-grooves-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "c03c1381fe56ba71fa70a14827583248d1f2d796f522aae4990ba3ae4c252d6c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0904-dark-minimal-house-grooves-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af208f37d4ceba8868552224b4ad0f080adaf5fbcd1d76ee83a3ce7090862cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z0904-dark-minimal-house-grooves-return/z0904-dark-minimal-house-grooves-return-combined.mid",
+      "bytes": 6003,
+      "sha256": "20627ef1734766810602b828d95443cffc91dc738ee7956a0923d4cc6879b9a0",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

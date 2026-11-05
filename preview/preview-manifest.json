@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dark-minimal-house-grooves-simple-synth-preview.mp3",
+  "preview_sha256": "654a6b82bf2c547bd94018f1c582e77c11b43b439d5edf9151ab8bd20d931098",
+  "source_midi_path": "midi/z0901-dark-minimal-house-grooves-opening/z0901-dark-minimal-house-grooves-opening-combined.mid",
+  "source_midi_sha256": "c6291cffdc94b6c07dd9df2a96295a28956ce9a8baa90ad705b334576caafa38",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z0901",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.112889,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
