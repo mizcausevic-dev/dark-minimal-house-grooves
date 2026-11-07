@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dark-minimal-house-grooves-midi.zip",
-      "bytes": 32030,
-      "sha256": "0128f6f3d9df433bf40e8b37de3fa9eb5fd602b9a708aaeb46cd97776340256a"
+      "bytes": 33017,
+      "sha256": "774674cf1ca7786c11a86fc4b09e310367593e327b2a7197c19c8988080cbf75"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10068,
-      "sha256": "06bfcb4bfb1b5b686914776f46f041bf78125313991d1a652c87c8540bd212a0"
+      "bytes": 10258,
+      "sha256": "e5680c5ffafcffb6748cbc459140178bf269c432d819a55b0740161f3ef288ac"
     },
     {
       "path": "midi/z0901-dark-minimal-house-grooves-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "20627ef1734766810602b828d95443cffc91dc738ee7956a0923d4cc6879b9a0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dark-minimal-house-grooves-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "654a6b82bf2c547bd94018f1c582e77c11b43b439d5edf9151ab8bd20d931098"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4009,
-      "sha256": "04db6d3c028c9c54f0adb603ea6002747058e7001af501c9af2414c3e80d491f"
+      "bytes": 4124,
+      "sha256": "6e5dae391fd52ee6fea14d34bd740ef8f2a60ff882c2e5fd08ea399650545719"
     },
     {
       "path": "social/instagram/caption.txt",
